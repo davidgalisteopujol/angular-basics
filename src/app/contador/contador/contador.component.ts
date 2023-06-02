@@ -11,7 +11,6 @@ import {Component} from '@angular/core';
         <span> {{numero}} </span>
 
         <button (click)="acumular(-base)"> - {{base}} </button>
-    
     `
 })
 
